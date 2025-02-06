@@ -1,0 +1,32 @@
+@media (max-width: 375px){
+    body{
+        background-position: center;
+    }
+
+    main{
+        width: 300px;
+        height: 460px;
+    }
+    .image{
+        width: 250px;
+        border-radius: 35px;
+
+    }
+    #content{
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    
+    #sub{
+        font-size: 15px;
+    }
+    
+    #title{
+        font-size: 20px;
+        height: 40px;
+    }
+
+    #image-container{
+        height: 285px;
+    }
+}
